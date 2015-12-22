@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/task.dtd">
+<task id="order">
+  <title>Reorder flex-items using Flexbox in Codepen.io</title>
+  <shortdesc>Flexbox's order property allows you to change the visual order of content but keep source order intact. This task shows how to reorder flex-items. One use case is repositioning a sidebar above main content.</shortdesc>
+  <taskbody>
+  	<prereq>
+  		<p>Ensure you have an operational understanding of HTML and CSS.</p>
+      <p>Ensure you have basic understanding of Flexbox</p>
+  		<p>Also, before you begin, gather the following information:</p>
+  			<ul>
+          <li>Type of items (navigation bar elements, header, aside, footer)</li>
+  				<li>Number of items</li>
+          <li>Desired styling of items</li>
+  			</ul>
+  	</prereq>
+    <steps>
+      <step>
+        <cmd>Open Codepen.io</cmd>
+      </step>
+      <step>
+        <cmd>Click in HTML text editing window</cmd>
+      </step>
+      <step>
+        <cmd>Create an unordered list class tag</cmd>
+      </step>
+      <step>
+        <cmd>Define unordered list class as "flex-container"</cmd>
+      </step>
+      <step>
+        <cmd>Create desired number of list class items</cmd>
+      </step>
+      <step>
+        <cmd>Define each list class as "flex-item"</cmd>
+      </step>
+      <step>
+        <cmd>Assign each list item a number inbetween open and close tag</cmd>
+      </step>
+      <step>
+        <cmd>Write a closed unordered list tag<cmd>
+      </step>
+      <step>
+        <cmd>Click in CSS text editing window</cmd>
+      </step>
+      <step>
+        <cmd>Create class selector titled "flex-container"</cmd>
+      </step>
+      <step>
+        <cmd>Define list-style as none</cmd>
+      </step>
+      <step>
+        <cmd>Define margin as 0</cmd>
+      </step>
+      <step>
+        <cmd>Define display as flex</cmd>
+      </step>
+      <step>
+        <cmd>Define justify-content as "space-around"</cmd>
+      </step>
+      <step>
+        <cmd>Define flex-flow as "row wrap"</cmd>
+      </step>
+      <step>
+        <cmd>Create class selector titled "flex-item:nth-of-type" for each flex item</cmd>
+      </step>
+      <step>
+        <cmd>Define each nth-of-type as corresponding flex-item number</cmd>
+      </step>
+      <step>
+        <cmd>Define order for each item as desired numerical order<cmd>
+      </step>
+      <step>
+        <cmd>Create class selector titled "flex-item"</cmd>
+      </step>
+      <step>
+        <cmd>Style each flex item as desired within "flex-item" class</cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/task.dtd">
+<task id="navigation bar">
+  <title>Create responsive navigation bar with Flexbox in Codepen.io</title>
+  <shortdesc>This task describes how to create a responsive navigation bar with Flexbox. Navigation items will be equally spaced.</shortdesc>
+  <taskbody>
+  	<prereq>
+  		<p>Ensure you have an operational understanding of HTML and CSS.</p>
+  		<p>Ensure you have basic understanding of Flexbox</p>
+  		<p>Also, before you begin, gather the following information:</p>
+  			<ul>
+  				<li>Website page titles</li>
+  				<li>Page URLs</li>
+  			</ul>
+  	</prereq>
+  	<steps>
+    	<step>
+    		<cmd>Open Codepen.io</cmd>
+    	</step>
+    	<step>
+    		<cmd>Click in HTML text editing window</cmd>
+    	</step>
+    	<step>
+    		<cmd>Create an unordered list class tag</cmd>
+    	</step>
+    	<step>
+    		<cmd>Define class as navigation</cmd>
+    	</step>
+    	<step>
+    		<cmd>Write list items equal to number of pages</cmd>
+    	</step>
+    	<step>
+    		<cmd>Assign each list item a page in desired order</cmd>
+    	</step>
+    	<step>
+    		<cmd>Input a correlating page link for each list item</cmd>
+    	</step>
+    	<step>
+    		<cmd>Insert page title inbetween <a> tags of URL</cmd>
+    	</step>
+    	<step>
+    		<cmd>Write a closed unordered list tag</cmd>
+    	</step>
+    	<step>
+    		<cmd>Click in CSS text editing window</cmd>
+    	</step>
+    	<step>
+    		<cmd>Create class selector titled "navigation"</cmd>
+    	</step>
+    	<step>
+    		<cmd>Define list-style as none</cmd>
+    	</step>
+    	<step>
+    		<cmd>Define margin as 0</cmd>
+    	</step>
+    	<step>
+    		<cmd>Define width as 100%</cmd>
+    	</step>
+    	<step>
+    		<cmd>Define display as flex</cmd>
+    	</step>
+    	<step>
+    		<cmd>Define justify-content as "space-around"</cmd>
+    	</step>
+    	<step>
+    		<cmd>Define flex-flow as "row wrap"</cmd>
+    	</step>
+    	<step>
+    		<cmd>Create class selector titled "navigation a"</cmd>
+    	</step>
+    	<step>
+    		<cmd>Define text-decoration as none</cmd>
+    	</step>
+    	<step>
+    		<cmd>Style navigation bar as desired</cmd>
+    	</step>
+    </steps>
+  </taskbody>
+</task>

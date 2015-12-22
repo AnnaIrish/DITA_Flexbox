@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/reference.dtd">
+<reference id="properties">
+    <title>Basic Flexbox Properties</title>
+    <shortdesc></shortdesc>
+    <refbody>
+    	<simpletable>
+    		<sthead>
+    			<stentry>Property</stentry>
+    			<stentry>Attribute</stentry>
+    			<stentry>Description</stentry>
+    		</sthead>
+    		<strow>
+    			<stentry>display</stentry>
+    			<stentry>flex</stentry>
+    			<stentry>Defines flex containter</stentry>
+    		</strow>
+    		<strow>
+    			<stentry>justify-content</stentry>
+    			<stentry>space-around</stentry>
+    			<stentry>Evenly distributes flex items with equal space around them</stentry>
+    		</strow>
+    		<strow>
+    			<stentry>flex-wrap</stentry>
+    			<stentry>row wrap</stentry>
+    			<stentry>Allows flex items to wrap as needed</stentry>
+    		</strow>
+    		<strow>
+    			<stentry>order</stentry>
+    			<stentry>integer</stentry>
+    			<stentry>Controls order in which flex items appear in flex container</stentry>
+    		</strow>
+            <strow>
+                <stentry>align-content<stentry>
+                <stentry>stretch</stentry>
+                <stentry>(default) Content stretches to take up remaining space on page</stentry>
+            </strow>
+    		<strow>
+    			<stentry>flex-grow</stentry>
+    			<stentry>integer</stentry>
+    			<stentry>Defines ability of flex item to grow if necessary</stentry>
+    		</strow>
+    	</simpletable>
+   	</refbody>
+<reference>

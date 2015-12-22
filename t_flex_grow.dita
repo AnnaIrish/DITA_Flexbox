@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/task.dtd">
 <task id="flex grow">
-  <title>Using Flexbox's flex-grow Property in Codepen.io</title>
-  <shortdesc></shortdesc>
+  <title>Using Flexbox's flex-grow property in Codepen.io</title>
+  <shortdesc>This task describes how to use Flexbox's flex-grow property. Use it to control how left over space is distributed between items.</shortdesc>
   <taskbody>
   	<prereq>
   		<p>Ensure you have an operational understanding of HTML and CSS.</p>
-      <p>Ensure you have basic understanding of Flexbox</p>
+      <p>Ensure you have basic understanding of <xref href="c_flexbox.dita">Flexbox</xref></p>
   		<p>Also, before you begin, gather the following information:</p>
   			<ul>
-  				<li>Number of items</li>
+          <li>Type of items (columns, buttons, table elements, navigation bar elements) </li>
+  				<li>Number of items </li>
           <li>Desired styling of items</li>
   			</ul>
   	</prereq>
@@ -51,16 +52,16 @@
         <cmd>Define margin as 0</cmd>
       </step>
       <step>
-        <cmd>Define display as flex</cmd>
+        <cmd>Define <xref href="r_properties.dita">display</href> as flex</cmd>
       </step>
       <step>
-        <cmd>Define justify-content as "space-around"</cmd>
+        <cmd>Define <xref href="r_properties.dita">justify-content</xref> as "space-around"</cmd>
       </step>
       <step>
-        <cmd>Define flex-flow as "row wrap"</cmd>
+        <cmd>Define <xref href="r_properties.dita">flex-flow</xref> as "row wrap"</cmd>
       </step>
       <step>
-        <cmd>Define align-content as "stretch"</cmd>
+        <cmd>Define <xref href="r_properties.dita">align-content</xref> as "stretch"</cmd>
       </step>
       <step>
         <cmd>Create class selector titled "flex-item:nth-of-type" for each flex item</cmd>
@@ -69,7 +70,7 @@
         <cmd>Define each nth-of-type as corresponding flex-item number</cmd>
       </step>
       <step>
-        <cmd>Define flex-grow for each flex-item<cmd>
+        <cmd>Define <xref href="r_properties.dita">flex-grow</xref> for each flex-item<cmd>
           <substep>
             <cmd>Define flex-grow as 1 for all normal sized flex-items</cmd>
           </substep>

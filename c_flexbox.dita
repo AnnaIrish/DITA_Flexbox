@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/concept.dtd">
+<concept id="flexbox">
+    <title>Flexbox</title>
+    <shortdesc>This is a brief introduction to Flexbox and its many layout functions.</shortdesc>
+    <conbody>
+        <p>Flexbox is a grid-based layout module that’s goal is to fill up space within a container. Flebox has two-dimensional and three-dimensional layout capabilities. 
+        </p>
+    </conbody>
+</concept>

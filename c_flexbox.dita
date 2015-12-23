@@ -4,7 +4,6 @@
     <title>Flexbox</title>
     <shortdesc>This is a brief introduction to Flexbox and its many layout functions.</shortdesc>
     <conbody>
-        <p>Flexbox is a grid-based layout module that’s goal is to fill up space within a container. Flebox has two-dimensional and three-dimensional layout capabilities. 
-        </p>
+        <p>Flexbox is a grid-based layout module that’s goal is to fill up space within a container. Flebox has two-dimensional and three-dimensional layout capabilities.</p>
     </conbody>
 </concept>

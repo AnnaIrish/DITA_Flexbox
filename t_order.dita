@@ -6,7 +6,7 @@
   <taskbody>
   	<prereq>
   		<p>Ensure you have an operational understanding of HTML and CSS.</p>
-      <p>Ensure you have basic understanding of Flexbox</p>
+      <p>Ensure you have basic understanding of <xref href="c_flexbox.dita">Flexbox</xref></p>
   		<p>Also, before you begin, gather the following information:</p>
   			<ul>
           <li>Type of items (navigation bar elements, header, aside, footer)</li>
@@ -52,13 +52,13 @@
         <cmd>Define margin as 0</cmd>
       </step>
       <step>
-        <cmd>Define display as flex</cmd>
+        <cmd>Define <xref href="r_properties.dita">display</xref> as flex</cmd>
       </step>
       <step>
-        <cmd>Define justify-content as "space-around"</cmd>
+        <cmd>Define <xref href="r_properties.dita">justify-content</xref> as "space-around"</cmd>
       </step>
       <step>
-        <cmd>Define flex-flow as "row wrap"</cmd>
+        <cmd>Define <xref href="r_properties.dita">flex-flow</xref> as "row wrap"</cmd>
       </step>
       <step>
         <cmd>Create class selector titled "flex-item:nth-of-type" for each flex item</cmd>

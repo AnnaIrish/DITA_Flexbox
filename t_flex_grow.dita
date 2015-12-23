@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/task.dtd">
-<task id="flex grow">
+<task id="flexgrow" xml:lang="en-us">
   <title>Using Flexbox's flex-grow property in Codepen.io</title>
   <shortdesc>This task describes how to use Flexbox's flex-grow property. Use it to control how left over space is distributed between items.</shortdesc>
   <taskbody>
@@ -37,7 +37,7 @@
         <cmd>Assign each list item a number inbetween open and close tag</cmd>
       </step>
       <step>
-        <cmd>Write a closed unordered list tag<cmd>
+        <cmd>Write a closed unordered list tag</cmd>
       </step>
       <step>
         <cmd>Click in CSS text editing window</cmd>

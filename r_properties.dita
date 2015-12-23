@@ -2,7 +2,7 @@
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/reference.dtd">
 <reference id="properties">
     <title>Basic Flexbox Properties</title>
-    <shortdesc></shortdesc>
+    <shortdesc>This is a reference table defining different Flexbox properties. Each property has an associated attribute, which creates a unique function in Flexbox.</shortdesc>
     <refbody>
     	<simpletable>
     		<sthead>
@@ -31,7 +31,7 @@
     			<stentry>Controls order in which flex items appear in flex container</stentry>
     		</strow>
             <strow>
-                <stentry>align-content<stentry>
+                <stentry>align-content</stentry>
                 <stentry>stretch</stentry>
                 <stentry>(default) Content stretches to take up remaining space on page</stentry>
             </strow>
@@ -42,4 +42,4 @@
     		</strow>
     	</simpletable>
    	</refbody>
-<reference>
+</reference>

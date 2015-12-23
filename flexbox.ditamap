@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/map.dtd">
+<map title="DITA Topic Map">
+    <title>Flexbox</title>
+    <topicref href="c_flexbox.dita" />
+    <topicref href="t_navigation_bar.dita"/>
+    <topicref href="t_order.dita"/>
+    <topicref href="t_flex_grow.dita"/>
+    <topicref href="r_properties.dita" />
+</map>

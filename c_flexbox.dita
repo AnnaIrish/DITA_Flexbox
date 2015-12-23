@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/concept.dtd">
-<concept id="flexbox">
+<concept id="Flexbox">
     <title>Flexbox</title>
     <shortdesc>This is a brief introduction to Flexbox and its many layout functions.</shortdesc>
     <conbody>
-        <p>Flexbox is a grid-based layout module that’s goal is to fill up space within a container. Flebox has two-dimensional and three-dimensional layout capabilities.</p>
+        <p>Flexbox is a grid-based layout module used in CSS3. Its goal is to fill up space within a container. Flexbox has two-dimensional and three-dimensional layout capabilities. It can be used for anything from creating an entire page layout to centering an image on the page.</p>
+        <p>Flexbox provides an efficient way to arrange elements on a page. With Flexbox, items are directed, aligned, ordered, and responsive. There are several Flexbox specific properties that help accomplish these functions.</p>
     </conbody>
 </concept>

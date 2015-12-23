@@ -36,7 +36,7 @@
     		<cmd>Input a correlating page link for each list item</cmd>
     	</step>
     	<step>
-    		<cmd>Insert page title inbetween <a> tags of URL</cmd>
+    		<cmd>Insert page title inbetween &lt;a&gt; tags of URL</cmd>
     	</step>
     	<step>
     		<cmd>Write a closed unordered list tag</cmd>

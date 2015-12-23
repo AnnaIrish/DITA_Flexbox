@@ -67,7 +67,7 @@
         <cmd>Define each nth-of-type as corresponding flex-item number</cmd>
       </step>
       <step>
-        <cmd>Define order for each item as desired numerical order<cmd>
+        <cmd>Define order for each item as desired numerical order</cmd>
       </step>
       <step>
         <cmd>Create class selector titled "flex-item"</cmd>

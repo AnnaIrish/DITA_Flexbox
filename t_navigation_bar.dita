@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/task.dtd">
 <task id="navigationbar" xml:lang="en-us">
-  <title>Create responsive navigation bar with Flexbox in Codepen.io</title>
+  <title>Create navigation bar with Flexbox in Codepen.io</title>
   <shortdesc>This task describes how to create a responsive navigation bar with Flexbox. Navigation items will be equally spaced.</shortdesc>
   <taskbody>
   	<prereq>

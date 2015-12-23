@@ -52,7 +52,7 @@
         <cmd>Define margin as 0</cmd>
       </step>
       <step>
-        <cmd>Define <xref href="r_properties.dita">display</href> as flex</cmd>
+        <cmd>Define <xref href="r_properties.dita">display</xref> as flex</cmd>
       </step>
       <step>
         <cmd>Define <xref href="r_properties.dita">justify-content</xref> as "space-around"</cmd>
@@ -70,14 +70,16 @@
         <cmd>Define each nth-of-type as corresponding flex-item number</cmd>
       </step>
       <step>
-        <cmd>Define <xref href="r_properties.dita">flex-grow</xref> for each flex-item<cmd>
-          <substep>
-            <cmd>Define flex-grow as 1 for all normal sized flex-items</cmd>
-          </substep>
-          <substep>
-            <cmd>Define flex-grow as number greater than 1 for desired flex-item</cmd>
+        <cmd>Define <xref href="r_properties.dita">flex-grow</xref> for each flex-item</cmd>
+          <substeps>
+            <substep>
+              <cmd>Define flex-grow as 1 for all normal sized flex-items</cmd>
+            </substep>
+            <substep>
+             <cmd>Define flex-grow as number greater than 1 for desired flex-item</cmd>
             <info>This flex-item will be larger than the rest</info>
-          </substep>
+            </substep>
+          </substeps>
       </step>
       <step>
         <cmd>Create class selector titled "flex-item"</cmd>

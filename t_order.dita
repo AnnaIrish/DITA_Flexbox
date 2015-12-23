@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/task.dtd">
-<task id="order">
+<task id="order" xml:lang="en-us">
   <title>Reorder flex-items using Flexbox in Codepen.io</title>
   <shortdesc>Flexbox's order property allows you to change the visual order of content but keep source order intact. This task shows how to reorder flex-items. One use case is repositioning a sidebar above main content.</shortdesc>
   <taskbody>
@@ -37,7 +37,7 @@
         <cmd>Assign each list item a number inbetween open and close tag</cmd>
       </step>
       <step>
-        <cmd>Write a closed unordered list tag<cmd>
+        <cmd>Write a closed unordered list tag</cmd>
       </step>
       <step>
         <cmd>Click in CSS text editing window</cmd>
